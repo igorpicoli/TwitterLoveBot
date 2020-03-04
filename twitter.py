@@ -1,6 +1,8 @@
 import tweepy
 import time
 
+#ADICIONE AQUI SUAS CREDENCIAIS DE DESENVOLVEDOR
+#https://developer.twitter.com/
 auth = tweepy.OAuthHandler('','')
 auth.set_access_token('', '')
 
