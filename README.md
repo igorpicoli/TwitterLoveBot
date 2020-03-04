@@ -1,2 +1,4 @@
-# TwitterLoveBot
-A Twitter bot who loves whatever you want
+# twitterbot
+Bot para curtir e retuitar tweets no termo que você definir
+
+Defina suas credenciais de desenvolvedor no Auth
